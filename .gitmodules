@@ -1,0 +1,6 @@
+[submodule "elecgad-frontend"]
+	path = elecgad-frontend
+	url = https://github.com/nitinallepker/elecgad-frontend
+[submodule "elecgad-backend"]
+	path = elecgad-backend
+	url = https://github.com/nitinallepker/elecgad-backend
