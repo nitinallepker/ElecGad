@@ -173,7 +173,7 @@ Generates final purchase summary.
 
 ### ElecGad Home Page
 
-![ElecGad UI](ElecGad UI.png)
+![ElecGad UI](ElecGad%20UI.png)
 ---
 
 ## Key Learnings
