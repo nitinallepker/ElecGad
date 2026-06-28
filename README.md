@@ -9,20 +9,20 @@ ElecGad is an AI-powered assistant that helps users make informed offline electr
 ## Live Application
 
 ### Frontend
-[Frontend Deployment](YOUR_VERCEL_URL)
+[Frontend Deployment](https://elecgad-frontend.vercel.app/)
 
 ### Backend API
-[Backend Deployment](YOUR_RENDER_URL)
+[Backend Deployment](https://elecgad-backend.onrender.com)
 
 ---
 
 ## Project Repositories
 
 ### Frontend Repository
-[ElecGad Frontend](YOUR_FRONTEND_REPO_URL)
+[ElecGad Frontend](https://github.com/nitinallepker/elecgad-frontend.git)
 
 ### Backend Repository
-[ElecGad Backend](YOUR_BACKEND_REPO_URL)
+[ElecGad Backend](https://github.com/nitinallepker/elecgad-backend.git)
 
 ---
 
