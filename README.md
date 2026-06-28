@@ -171,9 +171,9 @@ Generates final purchase summary.
 ```
 ## Screenshots
 
-### Home Page
+### ElecGad Home Page
 
-![ElecGad Home Page](/homepage.png)
+![ElecGad UI](ElecGad UI.png)
 ---
 
 ## Key Learnings
