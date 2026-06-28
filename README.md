@@ -173,7 +173,7 @@ Generates final purchase summary.
 
 ### Home Page
 
-![ElecGad Home Page](homepage.png)
+![ElecGad Home Page](/homepage.png)
 ---
 
 ## Key Learnings
