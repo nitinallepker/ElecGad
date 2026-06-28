@@ -169,7 +169,11 @@ User: Yes
 AI:
 Generates final purchase summary.
 ```
+## Screenshots
 
+### Home Page
+
+![ElecGad Home Page](homepage.png)
 ---
 
 ## Key Learnings
