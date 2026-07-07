@@ -1,6 +1,5 @@
-# ElecGad
+# ElecGad -- Your Personal Assistant for Easy Offline Electronics & Gadget Purchases --
 
-## Your Personal Assistant for Easy Offline Electronics & Gadget Purchases
 
 ElecGad is an AI-powered assistant that helps users make informed offline electronics purchases. Instead of spending hours comparing products and searching for stores, users can interact with ElecGad to receive personalized recommendations based on their budget, preferences, and location.
 
